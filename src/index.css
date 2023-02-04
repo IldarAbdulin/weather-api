@@ -115,8 +115,7 @@ input::placeholder {
 a {
   padding: 0.7rem 1.5rem;
   font-size: 1.2rem;
-  border-radius: 25px;
   border: 1px solid rgba(255, 255, 255, 0.8);
-  background: rgba(190, 187, 187, 0.134);
+  background: rgba(24, 71, 212, 0.221);
   color: #f8f8f8;
 }
